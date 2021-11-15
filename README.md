@@ -6,7 +6,7 @@
 | 단원 | 실습 | 
 |:---:|:---:|
 | 1 | [Point Transformation](https://github.com/MoonEeSun/Image_Processing/tree/main/1_Point_Transformation)  |
-| 2 | [Geometric Transformation]()  |
+| 2 | [Geometric Transformation](https://github.com/MoonEeSun/Image_Processing/tree/main/2_Geometric_Transformation)  |
 | 3 | [Spatial-Domain Filtering]()  |
 | 4 | []()  |
 | 5 | []()  |
