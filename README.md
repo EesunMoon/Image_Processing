@@ -9,7 +9,7 @@
 | 2 | [Geometric Transformation](https://github.com/MoonEeSun/Image_Processing/tree/main/2_Geometric_Transformation)  |
 | 3 | [Spatial-Domain Filtering](https://github.com/MoonEeSun/Image_Processing/tree/main/3_Spatial-Domain_Filtering)  |
 | 4 | [Frequency-Domain Processing](https://github.com/MoonEeSun/Image_Processing/tree/main/4_Frequency-Domain_Processing)  |
-| 5 | []()  |
+| 5 | [Compression]()  |
 
 ### 1. Point Transformation
 
@@ -26,5 +26,5 @@
 
 
 
-### 5.
+### 5. Compression
 
