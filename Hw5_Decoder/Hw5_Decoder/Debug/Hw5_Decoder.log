@@ -1,0 +1,5 @@
+﻿  main.c
+  Pred.c
+C:\Users\j\Desktop\Hw5_Decoder\Hw5_Decoder\Pred.c(26,21): warning C4133: '=': 'UChar (__cdecl *)(refBuf,Int,Int)'과(와) 'Int (__cdecl *)(refBuf,Int,Int)' 사이의 형식이 호환되지 않습니다.
+  코드를 생성하고 있습니다...
+  Hw5_Decoder.vcxproj -> C:\Users\j\Desktop\Hw5_Decoder\Debug\Hw5_Decoder.exe
