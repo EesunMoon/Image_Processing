@@ -25,5 +25,6 @@
 
 
 ### 5. Compression
+- 영상 데이터 압축 기법 :: traffic
 - encoder
 - decoder
