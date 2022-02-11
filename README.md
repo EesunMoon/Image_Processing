@@ -9,9 +9,11 @@
 
 ### 1. Point Transformation
 - point transformation : 화소(Pixel)의 값만을 바꾸는 영상처리 기법 (화소의 위치 X, 오직 자기 자신의 화소의 값만 다룬다)
+- Mapping
 
 ### 2. Geometric Transformation
-
+- Geometric Transformation : 화소(Pixel)의 값이 아닌 위치를 바꾸는 영상처리 기법
+- Interpolation
 
 
 ### 3. Spatial-Domain Filtering
