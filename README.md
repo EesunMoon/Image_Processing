@@ -17,7 +17,7 @@
 
 
 ### 3. Spatial-Domain Filtering
-
+- Spatial-Domain Filtering : 화소(Pixel)의 값과 위치를 모두 바꾸는 영상처리 기법 (주변 화소값들도 이용)
 
 
 ### 4. Frequency-Domain Processing
