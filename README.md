@@ -21,7 +21,7 @@
 
 
 ### 4. Frequency-Domain Processing
-
+- frequency domain에서 영상처리를 수행함으로써 조금 더 수월하게 진행
 
 
 ### 5. Compression
