@@ -1,5 +1,5 @@
 # Image_Processing
-| 단원 | 실습 | 
+| No. | Practice | 
 |:---:|:---:|
 | 1 | [Point Transformation](https://github.com/MoonEeSun/Image_Processing/tree/main/1_Point_Transformation)  |
 | 2 | [Geometric Transformation](https://github.com/MoonEeSun/Image_Processing/tree/main/2_Geometric_Transformation)  |
